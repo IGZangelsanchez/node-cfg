@@ -1,0 +1,18 @@
+{
+  "name": "node-cfg",
+  "version": "0.0.1",
+  "description": "Node-cfg is a configuration helper to make the daily work a bit easier.",
+  "main": "./lib/config",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IGZangelsanchez/node-cfg"
+  },
+  "author": "Intelygenz",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^2.1.0"
+  },
+  "devDependencies": {
+    "mocha": "~1.14.0"
+  }
+}
