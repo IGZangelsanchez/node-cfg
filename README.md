@@ -61,6 +61,11 @@ $ node app.js
 
 Running in this configuration, the `db.conn` element will come from the `production.json` file.
 
+See Also
+------------
+
+  * [node-config](https://www.npmjs.com/package/config) works in a similar way, with more features and safety checks. 
+
 License
 -------
 
